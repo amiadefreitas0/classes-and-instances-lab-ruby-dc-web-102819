@@ -1,8 +1,5 @@
 class Dog
 end
-bear = Dog.new
-bear
-four = Dog.new
-four
+fido = Dog.new
 
-four == bear
+fido
